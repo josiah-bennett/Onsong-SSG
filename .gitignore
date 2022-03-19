@@ -1,0 +1,8 @@
+# .gitignore
+html/
+
+*.onsong
+*.pdf
+*.html
+*~
+
